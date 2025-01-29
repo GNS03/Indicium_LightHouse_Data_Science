@@ -12,7 +12,7 @@ To run the model locally you will need:
 # Downloading the Model
 
 - The model can be downloaded from this
-  link: [Download Model](https://github.com/GNS03/Indicium_LightHouse_Data_Science/blob/master/gscv_gbr.pkl)
+  link: [Download Model](https://github.com/GNS03/Indicium_LightHouse_Data_Science/blob/master/model_pipeline.pkl)
 
 # Making Predictions
 
