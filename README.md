@@ -1,23 +1,25 @@
+### Exploratory Data Analysis
+
+The exploratory data analysis is in `main.ipynb` and the final version of the model is in `model_pipeline.ipynb`.
+
 # Requirements
 
-To run the model locally you will need:
+To run the model locally, you will need:
 
-- **Python 3.10+** [Download here](https://www.python.org/downloads/)
-- The libraries listed in the `requirements.txt` file
-    - If you already have Python installed, run this in your terminal:
+- **Python 3.10+**: [Download here](https://www.python.org/downloads/)
+- The libraries listed in the `requirements.txt` file:
+    - If you already have Python installed, run the following in your terminal:
       ```sh
       pip install -r requirements.txt
       ```
 
 # Downloading the Model
 
-- The model can be downloaded from this
-  link: [Download Model](https://github.com/GNS03/Indicium_LightHouse_Data_Science/blob/master/model_pipeline.pkl)
+- You can download the model from this link: [Download Model](https://github.com/GNS03/Indicium_LightHouse_Data_Science/blob/master/model_pipeline.pkl)
 
 # Making Predictions
 
-You'll need a Python script in the same folder as the .pkl model file.
-Here's a template of code to make a prediction:
+You'll need a Python script in the same folder as the `.pkl` model file. Here's a template of code to make a prediction:
 
   ```python
   import pickle
