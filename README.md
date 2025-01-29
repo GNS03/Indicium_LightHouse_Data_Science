@@ -15,6 +15,7 @@ To run the model locally, you will need:
 
 # Downloading the Model
 
+- Just clone this repository to your computer [How to clone a GitHub repository](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
 - You can download the model from this link: [Download Model](https://github.com/GNS03/Indicium_LightHouse_Data_Science/blob/master/model_pipeline.pkl)
 
 # Making Predictions
